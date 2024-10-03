@@ -1,0 +1,9 @@
+named memory location in RAM
+stored in stack
+declare before usage
+DataType variable name 
+Should not contain spaces
+special characters
+duplicate onot allowed
+not same as keyword
+
