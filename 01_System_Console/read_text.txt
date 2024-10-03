@@ -1,0 +1,7 @@
+void Write
+void WriteLine
+void Clear
+string ReadLine
+
+Console.Clear()
+Console.ReadKey()
