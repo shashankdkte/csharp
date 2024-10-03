@@ -1,0 +1,34 @@
+Primitive Types 
+  single value
+  basic building block of non Primitive
+
+Non Primitive 
+  string
+  Stores one or more valus
+
+
+
+
+
+sbyte -128 to 127
+byte  0 to 255
+short 
+ushort 
+int
+uint
+long
+ulong
+float
+double
+decimal
+char
+bool
+
+
+
+
+
+string
+default(int)
+
+

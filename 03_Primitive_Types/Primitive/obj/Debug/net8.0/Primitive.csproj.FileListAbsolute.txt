@@ -1,0 +1,15 @@
+D:\MATERIAL\c#\03_Primitive_Types\Primitive\bin\Debug\net8.0\Primitive.exe
+D:\MATERIAL\c#\03_Primitive_Types\Primitive\bin\Debug\net8.0\Primitive.deps.json
+D:\MATERIAL\c#\03_Primitive_Types\Primitive\bin\Debug\net8.0\Primitive.runtimeconfig.json
+D:\MATERIAL\c#\03_Primitive_Types\Primitive\bin\Debug\net8.0\Primitive.dll
+D:\MATERIAL\c#\03_Primitive_Types\Primitive\bin\Debug\net8.0\Primitive.pdb
+D:\MATERIAL\c#\03_Primitive_Types\Primitive\obj\Debug\net8.0\Primitive.GeneratedMSBuildEditorConfig.editorconfig
+D:\MATERIAL\c#\03_Primitive_Types\Primitive\obj\Debug\net8.0\Primitive.AssemblyInfoInputs.cache
+D:\MATERIAL\c#\03_Primitive_Types\Primitive\obj\Debug\net8.0\Primitive.AssemblyInfo.cs
+D:\MATERIAL\c#\03_Primitive_Types\Primitive\obj\Debug\net8.0\Primitive.csproj.CoreCompileInputs.cache
+D:\MATERIAL\c#\03_Primitive_Types\Primitive\obj\Debug\net8.0\Primitive.sourcelink.json
+D:\MATERIAL\c#\03_Primitive_Types\Primitive\obj\Debug\net8.0\Primitive.dll
+D:\MATERIAL\c#\03_Primitive_Types\Primitive\obj\Debug\net8.0\refint\Primitive.dll
+D:\MATERIAL\c#\03_Primitive_Types\Primitive\obj\Debug\net8.0\Primitive.pdb
+D:\MATERIAL\c#\03_Primitive_Types\Primitive\obj\Debug\net8.0\Primitive.genruntimeconfig.cache
+D:\MATERIAL\c#\03_Primitive_Types\Primitive\obj\Debug\net8.0\ref\Primitive.dll
