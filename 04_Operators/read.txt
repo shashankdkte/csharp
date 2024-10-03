@@ -1,0 +1,7 @@
+Arithmentic
+Assignment
+Comparison
+Logical 
+Concatenation
+Ternary Conditional Operator
+Operator Precedence
