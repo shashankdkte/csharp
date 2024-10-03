@@ -1,0 +1,44 @@
+for scalable applications
+user defined Types
+
+Methods
+  process the values
+Fields
+ store the value
+
+Constructors
+Properties
+Events
+Destructors
+
+
+ Objects are stored inside Heap
+Class is a model of object 
+
+1. class Car
+2. {
+3.   string regNo;
+4.   string carModel;
+5.   int carYear;
+6. }
+
+
+internal 
+public 
+compiled source compiled -> assembly compiled
+modifier
+
+static
+abstract
+sealed
+partial
+
+
+dotnet new sln -n OOPS
+dotnet new classlib -n OOP_Class
+dotnet sln add OOP_Class/OOP_Class.csproj
+dotnet new console -n OOP_Console
+otnet sln add OOP_Console/OOP_Console.csproj
+dotnet add OOP_Console/OOP_Console.csproj reference OOP_Class/OOP_Class.csproj
+dotnet build
+dotnet run
